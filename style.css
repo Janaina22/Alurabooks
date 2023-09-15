@@ -1,13 +1,6 @@
-:root {
-    --cor-de-fundo:#ebecee
+@import url("styles/heaer.css");
+:root  {
+
+    --cor-de-fundo: #ebecee;
+    --branco: #FFFFFF;
 }
-body{
-    background-color: azure(--cor-de-fundo);
-}
-<body>
-  <h1>AluraBook</h1>
-  </body>
-  h1  {
-    background-color:white;
-  }
-  
